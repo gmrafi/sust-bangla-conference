@@ -13,6 +13,19 @@
       ]
     },
     {
+      "source": "/downloads/(.*).pdf",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/pdf"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "inline"
+        }
+      ]
+    },
+    {
       "source": "/(.*).(css|js|woff2|jpg|jpeg|png|webp|svg|ico)",
       "headers": [
         {
