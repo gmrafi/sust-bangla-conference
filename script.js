@@ -132,7 +132,7 @@
     const close = document.getElementById("deadline-bar-close");
     if (!bar) return;
 
-    const DEADLINE = new Date("2026-10-01T23:59:59+06:00").getTime();
+    const DEADLINE = new Date("2026-11-05T23:59:59+06:00").getTime();
     if (Date.now() > DEADLINE) return;
     if (sessionStorage.getItem("icbllc_bar_dismissed") === "1") return;
 
