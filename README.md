@@ -11,10 +11,10 @@ Welcome to the official website repository for the **First International Confere
 ## About the Conference
 Historically, the Sylhet region has been a fertile ground for the practice of literature, culture, and free-thinking. To continue this legacy, the **Department of Bangla at Shahjalal University of Science and Technology (SUST)** warmly invites researchers, academicians, and scholars from around the globe to the **First International Conference on Bengali Language and Literature (ICBLL-2026)**.
 
-The conference will feature research paper presentations in six specific areas including language, literature, culture, social transformation, and the environment. This two-day event will serve as a unique platform for intensive knowledge sharing and the exchange of innovative ideas.
+The conference will feature research paper presentations in six specific areas including language, literature, culture, social transformation, and the environment. This day-long event will serve as a unique platform for intensive knowledge sharing and the exchange of innovative ideas.
 
 ### Event Details
-- **Date:** 27-28 November 2026
+- **Date:** 27 November 2026 (7:00 AM – 9:00 PM)
 - **Location:** Central Auditorium, Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh
 - **Host:** Department of Bangla, SUST
 

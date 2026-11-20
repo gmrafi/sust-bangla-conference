@@ -95,7 +95,7 @@
     const sEl = document.getElementById("cd-secs");
     if (!dEl || !hEl || !mEl || !sEl) return;
 
-    const target = new Date("2026-11-27T09:00:00+06:00").getTime();
+    const target = new Date("2026-11-27T07:00:00+06:00").getTime();
 
     function update() {
       const now = Date.now();
